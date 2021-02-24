@@ -6,7 +6,7 @@ import (
 )
 
 // server implements the Server interface.
-type server struct{
+type server struct {
 	Address string // should be moved to options.
 	Handler http.Handler
 }
