@@ -1,9 +1,5 @@
 # Congress
 
-## Ideology
-
-## Features
-
 ## Inspired by
 
 - [micro/micro](https://github.com/micro/micro)
