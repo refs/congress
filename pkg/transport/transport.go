@@ -1,8 +1,8 @@
 package transport
 
 import (
+	chttp "github.com/refs/congress/pkg/transport/http"
 	"net/http"
-	chttp "github.com/refs/congress/transport/http"
 )
 
 type Transport struct {

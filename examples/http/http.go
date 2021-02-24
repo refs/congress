@@ -1,7 +1,7 @@
 package main
 
 import (
-	chttp "github.com/refs/congress/server/http"
+	chttp "github.com/refs/congress/pkg/server/http"
 	"net/http"
 )
 
